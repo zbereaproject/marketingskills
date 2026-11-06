@@ -68,6 +68,7 @@ Quick reference for AI agents to discover tool capabilities and integration meth
 | savvycal | Scheduling | ✓ | - | [✓](clis/savvycal.js) | - | [savvycal.md](integrations/savvycal.md) |
 | typeform | Forms | ✓ | - | [✓](clis/typeform.js) | ✓ | [typeform.md](integrations/typeform.md) |
 | intercom | Messaging | ✓ | - | [✓](clis/intercom.js) | ✓ | [intercom.md](integrations/intercom.md) |
+| manychat | Messaging | ✓ | - | [✓](clis/manychat.js) | - | [manychat.md](integrations/manychat.md) |
 | outreach | Sales Engagement | ✓ | ✓ | [✓](clis/outreach.js) | - | [outreach.md](integrations/outreach.md) |
 | crossbeam | Partner Ecosystem | ✓ | ✓ | [✓](clis/crossbeam.js) | - | [crossbeam.md](integrations/crossbeam.md) |
 | introw | Partner Ecosystem | - | ✓ | - | - | [introw.md](integrations/introw.md) |
@@ -247,8 +248,9 @@ In-app messaging, chat, and customer communication.
 | Tool | Best For | Notes |
 |------|----------|-------|
 | **intercom** | In-app messaging, support, product tours | Full customer platform |
+| **manychat** | Instagram/Messenger/WhatsApp DM automation | Comment-to-DM lead capture |
 
-**Agent recommendation**: Intercom for in-app messaging and customer support.
+**Agent recommendation**: Intercom for in-app messaging and customer support. ManyChat for Instagram DM automation and social lead capture.
 
 ### Social Media
 
